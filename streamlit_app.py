@@ -7,3 +7,5 @@ streamlit.text(' 🥣 Oats breakfast')
 streamlit.text(' 🥗 Poha')
 streamlit.text(' 🐔 Khichdi')
 streamlit.text(' 🥑🍞 Guacamole')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
