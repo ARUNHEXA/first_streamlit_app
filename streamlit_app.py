@@ -29,8 +29,7 @@ streamlit.dataframe(fruits_to_show)
 
 #import requests
 streamlit.header("Fruityvice Fruit Advice!")
-try:
-  
+try: 
 #streamlit.text(fruityvice_response.json()) #just write data to screen
 
 #add a text entry box and send the input to fruityvice as part of the API call
